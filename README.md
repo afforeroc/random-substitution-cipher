@@ -2,7 +2,7 @@
 My Random Substitution Cipher
 
 ## Encrypt
-1. Check input_text.txt
+1. Check the input text
 ```
 Al principio quedó muy desconcertada, pero, des-
 pués de observarla unos minutos, descubrió que se
