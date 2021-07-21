@@ -1,5 +1,4 @@
-# random-substitution-cipher
-My Random Substitution Cipher
+# My Random Substitution Cipher
 
 ## Encrypt
 1. Check the input text

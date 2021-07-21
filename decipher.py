@@ -70,7 +70,7 @@ def main():
     print_text(decrypted_text)
 
     # Output
-    save_file("decrypted text.txt", decrypted_text)
+    save_file("decrypted_text.txt", decrypted_text)
   
 
 if __name__ == "__main__":
